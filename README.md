@@ -1,5 +1,5 @@
 # .NET Core Docker Samples
-
+https://dockerbuildbadges.quelltext.eu/status.svg?organization=IhorPetr&repository=dotnet-docker-samples
 This repo contains samples that demonstrate various .NET Core Docker configurations, which you can use as the basis of your own Docker images. They are also generally useful .NET Core samples and provide instructions for use with and without Docker.
 
 These samples depend on the [.NET Core Docker images](https://hub.docker.com/r/microsoft/dotnet/) on Docker Hub, provided by the .NET Team at Microsoft.
