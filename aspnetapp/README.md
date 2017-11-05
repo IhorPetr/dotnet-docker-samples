@@ -1,6 +1,6 @@
 # ASP.NET Core Docker Production Sample
 
-[![](https://dockerbuildbadges.quelltext.eu/status.svg?organization=IhorPetr&repository=dotnet-docker-samples)](https://hub.docker.com/r/ihorpetr/testbuild/builds/)
+[![](https://dockerbuildbadges.quelltext.eu/status.svg?organization=ihorpetr&repository=testbuild)](https://hub.docker.com/r/ihorpetr/testbuild/builds/)
 
 This ASP.NET Core Docker sample demonstrates a best practice pattern for building Docker images for ASP.NET Core apps for production. The sample works with both Linux and Windows containers.
 
